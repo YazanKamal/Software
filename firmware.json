@@ -1,0 +1,5 @@
+{
+    "type": "esp32-fota-http",
+    "version": "1.0",
+    "url": "https://github.com/YazanKamal/Software/blob/345fcf8c40907a0a7c48ba91d35ffecd5f97b6dc/WiGluco_Latest.bin"
+}
