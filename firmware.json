@@ -1,12 +1,12 @@
 [
    {
       "type": "firmware_update",
-      "version": "1.4.2",
+      "version": "2.0.0",
       "url": "https://raw.githubusercontent.com/YazanKamal/Software/master/firmware.bin"
    },
    {
       "type":"file_system_update",
-      "version":"1.0.0",
+      "version":"2.0.0",
       "url":"https://raw.githubusercontent.com/YazanKamal/Software/master/file_system.bin"
    }
 ]
