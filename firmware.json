@@ -1,12 +1,12 @@
 [
    {
       "type": "firmware_update",
-      "version": "3.6.5",
+      "version": "3.6.6",
       "url": "https://raw.githubusercontent.com/YazanKamal/Software/master/firmware.bin"
    },
    {
       "type":"file_system_update",
-      "version":"3.6.5",
+      "version":"3.6.6",
       "url":"https://raw.githubusercontent.com/YazanKamal/Software/master/file_system.bin"
    }
 ]
