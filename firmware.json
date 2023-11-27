@@ -1,7 +1,7 @@
 [
    {
       "type": "firmware_update",
-      "version": "5.0.1",
+      "version": "5.0.2",
       "url": "https://raw.githubusercontent.com/YazanKamal/Software/master/firmware.bin"
    }
 ]
